@@ -4,7 +4,7 @@
 <img src="https://github.com/232-Pazarama-iOS-Swift-Bootcamp/week2_hw2-onurduyar/blob/main/calculator.gif" height="450"/>
 
 ## Features
-- Some basic operations
+- Some basic operations(+, -, *, /, %)
 ### Scientific Features 
 - Square root
 - Two power of number
