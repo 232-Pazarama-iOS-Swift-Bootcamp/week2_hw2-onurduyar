@@ -1,5 +1,7 @@
 
 # Pazarama iOS Bootcamp - Hafta 2 - Ödev  
+## Sample Usage
+<img src="https://github.com/232-Pazarama-iOS-Swift-Bootcamp/week2_hw2-onurduyar/blob/main/calculator.gif" height="450"/>
 
 ## Features
 - Some basic operations
