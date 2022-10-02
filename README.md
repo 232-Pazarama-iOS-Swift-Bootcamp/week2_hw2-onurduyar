@@ -1,6 +1,29 @@
 
 # Pazarama iOS Bootcamp - Hafta 2 - Ödev  
- 
+
+## Features
+- Some basic operations
+### Scientific Features 
+- Square root
+- Two power of number
+- ln (loge)
+## Operations
+
+ ```swift
+import Foundation
+
+enum Operations:String {
+    case Add = "+"
+    case Subtract = "-"
+    case Divide = "/"
+    case Multiply = "*"
+    case SquareRoot = "√¯"
+    case TwoPower = "x²"
+    case Log = "log"
+    case Mod = "%"
+    case NULL = "Null"
+}
+ ```
 Bilimsel Hesap Makinesi  
 Eğitimlerde üstünde çalıştığımız hesap makinesinin geliştirmesinin tamamlanması ve basit
 hesap makinesinin, çeşitli fonksiyonlar eklenerek(karekök, üs alma vb.) bilimsel hesap
